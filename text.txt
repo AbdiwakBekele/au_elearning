@@ -1,0 +1,39 @@
+
+ === main pages === /unchecked?
+ -capture au pic for slide2, au graduation ceremony on slide3.
+
+ -and also pic for bg-organization on home-page and about-page. /checked.
+
+ -what makes C-S departement different? 
+	atlist four topics.
+
+ -computer secince instructors. and make the card with control
+ 
+ -find all the social media for that footer icons. 2/4 /uncheched.
+
+
+ === login ===
+ -admin login /checked.
+ -teachers login /checked.
+ -students login /checked.
+
+
+ === use system genereted password / forget-password === /checked.
+ -admin login /checked.
+ -teachers login /checked.
+ -students login /checked.
+ 
+
+ === finish up all admin side parts === /progresed-
+ -update, add, delete - functionality /unchecked?
+ -communication /unchecked?
+ -update profile /unchecked?
+
+
+ === finish up all teachers parts === /unchecked?
+
+
+ === finish up all students parts === /unchecked?
+
+
+

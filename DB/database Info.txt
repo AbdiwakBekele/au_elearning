@@ -1,0 +1,7 @@
+Database Name: elearning
+Database Server: localhost
+username: root
+password: -
+
+Note: Import the sql file after creating the database with the above name
+
